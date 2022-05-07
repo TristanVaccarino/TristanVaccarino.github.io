@@ -1,2 +1,3 @@
-# TristanVaccarino.github.io
-[This is my website](TristanVaccarino.github.io)
+# TristanVaccarino Website
+Move your cursor [here](TristanVaccarino.github.io) and click to see my website
+
